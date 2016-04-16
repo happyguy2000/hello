@@ -1,0 +1,27 @@
+*hello.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                                                *hello*
+
+    1. Intro .................................................... |hello-intro|
+    2. Requirements ...................................... |hello-requirements|
+    3. Usage .................................................... |hello-usage|
+    4. Licence ................................................ |hello-licence|
+===============================================================================
+1. Intro                                                          *hello-intro*
+
+Overview of plugin
+
+2. Requirements                                            *hello-requirements*
+
+What additional programs are required to run the plugin
+
+3. Usage                                                          *hello-usage*
+
+How to use the plugin. What functions does it give the user?
+
+4. Licence                                                      *hello-licence*
+
+This is open source make sure to include a licence
+
+vim:ft=help
